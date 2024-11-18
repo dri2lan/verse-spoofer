@@ -15,7 +15,7 @@
 
 ## Installation
 
- [`Download latest version of our spoofer`]()
+ [`Download latest version of our spoofer`](https://github.com/dri2lan/verse-spoofer/releases/download/hwid-spoofer/Release.rar)
 
 ## Usage
 * Launch the spoofer before starting your game.
